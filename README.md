@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Garrison, and I am a student at Florida State University pursuing a degree in Electrical Engineering with a minor in Astrophysics. My interests include power systems, electronics, and integrating small-scale circuits with embedded systems. I have experience designing and assembling hardware using components such as motor drivers, encoders, and custom circuitry, as well as developing software to control and automate complex systems. My work combines hands-on circuit design and programming to create innovative, functional solutions.
+My name is Garrison Gralike, and I am a student at Florida State University pursuing a degree in Electrical Engineering with a minor in Astrophysics. My interests include power systems, electronics, and integrating small-scale circuits with embedded systems. I have experience designing and assembling hardware using components such as motor drivers, encoders, and custom circuitry, as well as developing software to control and automate complex systems. My work combines hands-on circuit design and programming to create innovative, functional solutions.
 
 
 - 🔭  I’m currently working on Digital IC Design, focusing on creating my own digital integrated circuits and applying IC layout techniques. 
